@@ -24,7 +24,8 @@ This IoT project uses soil moisture sensor to notify the user when the soil gets
 
 ## CODE
 
-```int a =13;
+```C
+int a =13;
 int b =12;
 int c =11;
 int d =10;
@@ -79,4 +80,6 @@ else{
     digitalWrite(f,LOW);
     digitalWrite(g,HIGH); 
 }
-}```
+}
+
+```
